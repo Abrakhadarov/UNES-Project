@@ -2,4 +2,4 @@
 
 First HTML Project.
 
-Practicing and learning more about HMTL, homepages, links, images, and forms.
+Practicing and learning more about HTML, homepages, links, images, and forms.
